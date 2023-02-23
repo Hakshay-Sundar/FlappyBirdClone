@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Bird Dimensions-->
+    <dimen name="bird_x_pos">50dp</dimen>
+    <dimen name="bird_height">40dp</dimen>
+    <dimen name="bird_width">66dp</dimen>
+
+    <!--Background Dimensions-->
+    <dimen name="sky_height">150dp</dimen>
+    <dimen name="ground_height">200dp</dimen>
+    
+    <!--Obstacle dimensions-->
+    <dimen name="obstacle_width">100dp</dimen>
+    <dimen name="obstacle_separation">275dp</dimen>
+    <dimen name="obstacle_speed">5dp</dimen>
+    <dimen name="obstacle_head_height">30dp</dimen>
+    <dimen name="obstacle_extra_head_width">20dp</dimen>
+    <dimen name="obstacle_min_height_lower">100dp</dimen>
+    <dimen name="obstacle_interval">350dp</dimen>
+
+    <dimen name="bird_gravity">1.5dp</dimen>
+    <dimen name="bird_boost">-15dp</dimen>
+</resources>
